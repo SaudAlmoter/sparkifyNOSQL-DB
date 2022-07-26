@@ -43,9 +43,7 @@ Below are steps you can follow to complete each component of this project.
 
 <b>Files:</b>
 
-<b>Project_1B_Project_Template.ipynb:</b> This was template file provided to fill in the details and write the python script
-
-<b>Project_1B.ipynb:</b> This is the final file provided in which all the queries have been written with importing the files, generating a new csv file and loading all csv files into one. All verifying the results whether all tables had been loaded accordingly as per requirement
+<b>Project_2_NOSQL.ipynb:</b> This is the final file provided in which all the queries have been written with importing the files, generating a new csv file and loading all csv files into one. All verifying the results whether all tables had been loaded accordingly as per requirement
 
 <b>Event_datafile_new.csv:</b> This is the final combination of all the files which are in the folder event_data
 
